@@ -1,0 +1,30 @@
+* {
+    text-align: center;
+    background-color:bisque;
+    font-family: jameel;
+}
+
+@font-face {
+    font-family: Jameel;
+    src: url(../Jameel\ Noori\ Nastaleeq.ttf);
+}
+
+h1 {
+    background-color: brown;
+    color: aliceblue;
+
+}
+
+.personalities1 {
+   
+
+}
+
+.Personalities2 {
+    background-color: aliceblue;
+    color: brown;
+    font-size: 25px;
+    text-align: right;
+    
+
+}
