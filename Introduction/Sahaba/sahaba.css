@@ -3,8 +3,8 @@ body{
 }
 
 h1{
-    color: #a0c49d;
-    background-color: #f7ffe5;
+    color: brown;
+    background-color: rgb(255, 255, 255);
 }
 
 #back {
@@ -15,7 +15,6 @@ h1{
 }
 
 .khulafa {
-    display: flex;
     justify-content: center;
     align-items: center;
 
@@ -24,14 +23,12 @@ h1{
 .name {
     justify-content: center;
     align-items: center;
-    
-
 }
 
 .Fatima2 {
     border-radius: 50%;
     width: 1200px;
     height: 1200px;
-    margin-left: 70px;
+    margin-left: 0px;
 
 }
